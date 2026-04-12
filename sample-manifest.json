@@ -1,0 +1,12 @@
+{
+  "export_job_id": "f97591a0-51ef-47fe-b9f4-6f73fdd2f56a",
+  "id_short": 426926,
+  "published_at": "2026-04-12T07:53:47Z",
+  "repo_name": "all-restaurants-in-omaha-nebraska-us-sample-426926",
+  "sample_asset_name": "beamstation_426926_restaurants-us-ne_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/426926/beamstation_426926_restaurants-us-ne_SAMPLE_DIST.csv",
+  "sample_records": 162,
+  "sample_sha256": "655ddd38db7b8191a65ddda27be0aeadc474f5d9b78584d95cc0b07e1e4fd1cf",
+  "sample_size_bytes": 563492,
+  "total_records": 1622
+}
