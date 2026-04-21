@@ -1,6 +1,6 @@
 # All Restaurants in Omaha, Nebraska, US
 
-> Free BeamStation sample export with 160 rows and masked direct-contact fields.
+> Free BeamStation sample export with 52 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `426926` |
 | Location | Omaha |
 | Category | Restaurants |
-| Full dataset size | 1,607 records |
-| Free sample size | 160 records (9.96%) |
-| Last export | 2026-04-14T12:04:14.693300+00:00 |
+| Full dataset size | 521 records |
+| Free sample size | 52 records (9.98%) |
+| Last export | 2026-04-21T12:34:32.165214+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-omaha-nebraska-us-sample-426926/releases/download/sample-latest/beamstation_426926_restaurants-us-ne_SAMPLE_DIST.csv) |
 
 ## What is in this sample
